@@ -2,6 +2,10 @@
 
 A modern, production-ready portfolio website built with React.js, showcasing skills, experience, projects, and achievements.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 ## Features
 
 - **Modern Design**: Dark luxury tech theme with glassmorphism effects
