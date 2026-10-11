@@ -1,0 +1,5 @@
+- dominique-mcclaney-portfolio is a public React + Vite portfolio site (dark luxury theme, Tailwind v4, Framer Motion, React Router with six pages, React Helmet Async SEO and a client-side chatbot). Content lives in src/data/resumeData.js.
+- State: unchanged since the initial commit and a Vercel peer-dependency fix in February 2026; no live URL is stated in the README.
+- Re-reviewed October 2026: README, file tree and commit history re-read; documentation and version metadata only, no code changes. External links checked: github.com/MccDom1 returns 200; the LinkedIn profile returns 405 to automated requests (bot blocking, not necessarily dead); the .git clone URL is not browsable. None point at our own resources, so none were changed.
+- README states an MIT License but the repo had no LICENSE file; a standard MIT LICENSE was added in this release.
+- Known gaps: no tests or CI.
